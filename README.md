@@ -1,7 +1,10 @@
 # ArgomentiOrale5A
 
 1.Addis Gianluca 
-
+ > A standard organisation consists of different departments and corporate title that contribute to the mission and goals of company.
+  Let’s talk about the different departments and corporate title starting from the higher responsibility to the lower responsibility.
+ > White and Black box testing
+ 
 2.Cossu Emanuele
 
 3.Fois Matteo
